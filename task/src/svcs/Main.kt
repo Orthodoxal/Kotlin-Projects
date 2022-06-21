@@ -59,6 +59,7 @@ fun getLastCommitID(): String {
 }
 
 fun comparator(): String {
+    //сравниваем файлы
     val files = File(fileNameIndex).readLines()
     var lastCommit = getLastCommitID()
     if (files.isNotEmpty()) {
