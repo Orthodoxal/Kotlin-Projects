@@ -20,6 +20,7 @@ val allCommands =
             "checkout   Restore a file."
 
 fun checkout(ID: String? = null): String {
+    //смена ветки
     return if (ID == null) "Commit id was not passed." else {
         if (File("$commitsDirectory/$ID").exists() && File("$commitsDirectory/$ID").isDirectory) {
             val files = File(fileNameIndex).readLines()
