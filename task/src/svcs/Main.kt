@@ -138,6 +138,7 @@ fun showFiles() {
 }
 
 fun showConfig(name: String? = null): String {
+    // показывает конфиг
     return if (name != null) {
         File(fileNameConfig).writeText(name)
         "The username is $name."
