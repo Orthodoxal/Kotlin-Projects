@@ -149,6 +149,7 @@ fun showConfig(name: String? = null): String {
 }
 
 fun createVCS() {
+    //создаем vcs
     val dir = File(directory)
     if (!dir.exists()) {
         dir.mkdir()
