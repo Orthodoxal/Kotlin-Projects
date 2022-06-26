@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Reddit" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Composition" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/New planet" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Possible properties types" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/RuntimeException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing a red square" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing four circles" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing three strings" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Drawing two lines" />
+            <option value="$PROJECT_DIR$/Topics/Image libraries/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Cell" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Exception message" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch statement/Theory" />
+            <option value="$PROJECT_DIR$/Watermark/task" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Watermark/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
